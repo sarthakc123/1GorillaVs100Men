@@ -43,10 +43,9 @@ Inspired by internet debates, this simulation explores whether a high-speed, hig
 - Correlation heatmaps between input parameters and simulation result
 - Animated battle sequences
 
-![Outcome Sample](![image](https://github.com/user-attachments/assets/796cc1cf-abb8-461c-87b5-7d07f5103394))
+![Outcome Sample](![image](https://github.com/user-attachments/assets/15e1360c-5a4e-4012-8ca7-a29c8d672f09)
 
 ![Step Distribution](![image](https://github.com/user-attachments/assets/3f903515-6a71-4163-a1ec-be925efa90b0)
-))
 
 ![Comparisions](![image](https://github.com/user-attachments/assets/6ccc0d57-c6b9-4e22-9a9b-43f748cc48ba)
 
