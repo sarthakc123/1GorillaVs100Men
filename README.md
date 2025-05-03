@@ -43,9 +43,10 @@ Inspired by internet debates, this simulation explores whether a high-speed, hig
 - Correlation heatmaps between input parameters and simulation result
 - Animated battle sequences
 
-![Outcome Sample](assets/outcome_bar_chart.png)
-![Step Distribution](assets/step_distribution.png)
-![Correlation](assets/correlation_heatmap.png)
+![Outcome Sample](![image](https://github.com/user-attachments/assets/796cc1cf-abb8-461c-87b5-7d07f5103394)
+![Step Distribution](![image](https://github.com/user-attachments/assets/3f903515-6a71-4163-a1ec-be925efa90b0)
+)
+![Comparisions](![image](https://github.com/user-attachments/assets/6ccc0d57-c6b9-4e22-9a9b-43f748cc48ba)
 
 ---
 
@@ -58,8 +59,6 @@ We ran simulations with increasing iterations (1000 to 5000) and observed conver
 ## 📂 Files
 
 - `gorilla_simulation.ipynb`: Main simulation and analysis
-- `simulation_output.csv`: Logged results from 5000 simulations
-- `assets/`: Contains output graphs and animations
 
 ---
 
